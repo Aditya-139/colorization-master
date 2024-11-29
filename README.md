@@ -56,4 +56,4 @@ If you find these models useful for your resesarch, please cite with these bibte
 ```
 
 ### Misc ###
-Contact Richard Zhang at rich.zhang at eecs.berkeley.edu for any questions or comments.
+Contact Aditya Makkena at adityamakkena0@gmail.com for any questions or comments.
